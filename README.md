@@ -1,0 +1,2 @@
+# gitNPZ
+repozytorium
